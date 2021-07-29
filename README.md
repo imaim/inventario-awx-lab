@@ -1,0 +1,1 @@
+# inventario-awx-lab
